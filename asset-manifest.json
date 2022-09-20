@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scrapyard/static/css/main.73531acb.css",
+    "main.js": "/scrapyard/static/js/main.75e1b1ad.js",
+    "static/js/787.4bdfaa7a.chunk.js": "/scrapyard/static/js/787.4bdfaa7a.chunk.js",
+    "index.html": "/scrapyard/index.html",
+    "main.73531acb.css.map": "/scrapyard/static/css/main.73531acb.css.map",
+    "main.75e1b1ad.js.map": "/scrapyard/static/js/main.75e1b1ad.js.map",
+    "787.4bdfaa7a.chunk.js.map": "/scrapyard/static/js/787.4bdfaa7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73531acb.css",
+    "static/js/main.75e1b1ad.js"
+  ]
+}
